@@ -9,6 +9,7 @@ cd yolov5
 pip install -r requirements.txt # install
 ```
 ## then,replace the yolo.py with the yolo.py in our repository and create a folder "modules" in models 
+## replace utils/metric.py with the metric.py in our repository
 ## add '__init_.py,shufflenetv2.py,split-DLKA.py' to modules.
 ## add 'yolov5s_shufflenet.yaml' to models
 
